@@ -1,0 +1,26 @@
+
+header {
+    width: 100%;
+}
+
+nav {
+    background-color: black;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 1em .2em;
+}
+
+ul li {
+    padding: .3em;
+    font-size: 2rem;
+}
+
+ul li a {
+    font-family: var(--font-family);
+    text-decoration: none;
+    color: var(--color-nav-text);
+    font-weight: 400;
+}

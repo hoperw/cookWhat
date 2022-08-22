@@ -246,6 +246,85 @@ export default {
                 "flavorProfile": ["sweet"],
                 "inspiredFrom": ["italian"],
                 "img": "https://minimalistbaker.com/wp-content/uploads/2022/07/Vegan-Tiramisu-Pudding-SQUARE-300x300.jpg"
+            },
+            {
+                "id": 23,
+                "name": "Budae Chigae",
+                "url": "https://thekoreanvegan.com/budae-chigae/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": false,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["korean"],
+                "img": "https://thekoreanvegan.com/wp-content/uploads/2021/01/Screen-Shot-2021-03-18-at-1.20.55-PM-2048x1152.png"
+            },
+            {
+                "id": 24,
+                "name": "Tteokbokki (Spicy Korean Rice Cakes)",
+                "url": "https://thekoreanvegan.com/korean-fire-cakes-ddukbokee/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["korean"],
+                "img": "https://thekoreanvegan.com/wp-content/uploads/2016/08/5P4A4693-2-scaled-1-2048x2048.jpg"
+            },
+            {
+                "id": 25,
+                "name": "Kkwabaeggi - Korean Twisty Donuts",
+                "url": "https://thekoreanvegan.com/korean-churros/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": false,
+                "flavorProfile": ["sweet"],
+                "inspiredFrom": ["korean"],
+                "img": "https://thekoreanvegan.com/wp-content/uploads/2016/06/DSC_0385-scaled-1-2048x1360.jpg"
+            },
+
+
+            {
+                "id": 26,
+                "name": "Kimchi Crunchwrap Supreme",
+                "url": "https://thekoreanvegan.com/kimchi-crunchwrap-supreme-2/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["korean"],
+                "img": "https://thekoreanvegan.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-11-at-1.06.05-PM-2048x1152.png"
+            },
+            {
+                "id": 27,
+                "name": "Vegan Quesadillas with Smoky Black Beans",
+                "url": "https://minimalistbaker.com/vegan-quesadillas-with-smoky-black-beans/#wprm-recipe-container-90803",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": false,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["mexican"],
+                "img": "https://minimalistbaker.com/wp-content/uploads/2021/12/Vegan-Quesadilla-SQUARE-300x300.jpg"
+            },
+            {
+                "id": 28,
+                "name": "Creamy Vegan Potato Leek Soup",
+                "url": "https://minimalistbaker.com/creamy-potato-leek-soup-vegan/#wprm-recipe-container-86225",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["american"],
+                "img": "https://minimalistbaker.com/wp-content/uploads/2021/09/Potato-Leek-Soup-SQUARE-300x300.jpg"
+            },
+            {
+                "id": 29,
+                "name": "Easy Penne Arrabbiata",
+                "url": "https://minimalistbaker.com/easy-penne-arrabbiata/#wprm-recipe-container-81864",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["italian"],
+                "img": "https://minimalistbaker.com/wp-content/uploads/2021/05/Penne-Arrabiatta-SQUARE-300x300.jpg"
             }
         ]
     }

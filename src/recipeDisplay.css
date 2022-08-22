@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+
 #recipe-display {
     display: flex;
     flex-direction: column;
@@ -6,6 +8,10 @@
     width: 90%;
     padding: 1em;
     margin: auto;
+}
+#recipe-display h2 {
+    font-family: 'Mali', 'cursive', 'sans-serif';
+    font-size: 2em;
 }
 .recipe-img-wrapper {
     display: flex;

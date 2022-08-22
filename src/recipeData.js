@@ -238,8 +238,8 @@ export default {
             },
             {
                 "id": 22,
-                "name": "https://minimalistbaker.com/vegan-tiramisu-pudding/",
-                "url": "https://www.pickuplimes.com/recipe/vegan-butter-chicken-with-baked-tofu-61",
+                "name": "Vegan Tiramisu Pudding",
+                "url": "https://minimalistbaker.com/vegan-tiramisu-pudding/",
                 "vegan": true,
                 "vegetarian": true,
                 "glutenFree": true,

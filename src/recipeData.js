@@ -113,10 +113,6 @@ export default {
                 "inspiredFrom": ["mexican"],
                 "img": "https://www.budgetbytes.com/wp-content/uploads/2013/04/Black-Bean-and-Avocado-Enchiladas-close.jpg"
             },
-
-
-
-
             {
                 "id": 11,
                 "name": "Butternut Squash Lasagna",
@@ -160,6 +156,96 @@ export default {
                 "flavorProfile": ["savory", "spicy"],
                 "inspiredFrom": ["indian"],
                 "img": "https://cdn.pickuplimes.com/cache/86/a4/86a495d9a1bd8b362b0e0fc3cf2c5e90.jpg"
+            },
+
+
+            {
+                "id": 15,
+                "name": "Kitsune Udon",
+                "url": "https://www.chopstickchronicles.com/kitsune-udon/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": false,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["japanese"],
+                "img": "https://www.chopstickchronicles.com/wp-content/uploads/2020/01/Kitsune-Udon-22.webp"
+            },
+            {
+                "id": 16,
+                "name": "Onigirazu",
+                "url": "https://www.chopstickchronicles.com/onigirazu/",
+                "vegan": false,
+                "vegetarian": false,
+                "glutenFree": true,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["japanese"],
+                "img": "https://www.chopstickchronicles.com/wp-content/uploads/2016/04/Onigirazu-update-14.webp"
+            },
+            {
+                "id": 17,
+                "name": "Creamy Vegetable Wild Rice Soup",
+                "url": "https://www.budgetbytes.com/creamy-vegetable-wild-rice-soup-vegan/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["american"],
+                "img": "https://www.budgetbytes.com/wp-content/uploads/2019/11/Creamy-Vegetable-Wild-Rice-Soup-V3.jpg"
+            },
+            {
+                "id": 18,
+                "name": "Spicy Ethiopian Lentil Stew",
+                "url": "https://www.connoisseurusveg.com/spicy-ethiopian-lentil-stew/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["savory", "spicy"],
+                "inspiredFrom": ["ethiopian"],
+                "img": "https://www.connoisseurusveg.com/wp-content/uploads/2016/03/ethiopian-lentils-2.jpg"
+            },
+            {
+                "id": 19,
+                "name": "Mediterranean Farro Salad with Spiced Chickpeas",
+                "url": "https://www.budgetbytes.com/mediterranean-farro-salad-with-spiced-chickpeas/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": false,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["mediterranean"],
+                "img": "https://www.budgetbytes.com/wp-content/uploads/2016/02/Mediterranean-Farro-Salad-with-Spiced-Chickpeas-V.jpg"
+            },
+            {
+                "id": 20,
+                "name": "Sweet Potato Grain Bowls with Green Tahini Sauce",
+                "url": "https://www.budgetbytes.com/sweet-potato-grain-bowls-green-tahini-sauce/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": false,
+                "flavorProfile": ["savory"],
+                "inspiredFrom": ["mediterranean"],
+                "img": "https://www.budgetbytes.com/wp-content/uploads/2017/05/Sweet-Potato-Grain-Bowls-with-Green-Tahini-Sauce-V1.jpg"
+            },
+            {
+                "id": 21,
+                "name": "Easy Gluten-Free Peach Cobbler",
+                "url": "https://minimalistbaker.com/easy-gluten-free-peach-cobbler-vegan/",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["sweet"],
+                "inspiredFrom": ["american"],
+                "img": "https://minimalistbaker.com/wp-content/uploads/2022/05/Peach-Cobbler-SQUARE-300x300.jpg"
+            },
+            {
+                "id": 22,
+                "name": "https://minimalistbaker.com/vegan-tiramisu-pudding/",
+                "url": "https://www.pickuplimes.com/recipe/vegan-butter-chicken-with-baked-tofu-61",
+                "vegan": true,
+                "vegetarian": true,
+                "glutenFree": true,
+                "flavorProfile": ["sweet"],
+                "inspiredFrom": ["italian"],
+                "img": "https://minimalistbaker.com/wp-content/uploads/2022/07/Vegan-Tiramisu-Pudding-SQUARE-300x300.jpg"
             }
         ]
     }

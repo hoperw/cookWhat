@@ -163,6 +163,7 @@ export default function Form() {
                         <option value="japanese">Japanese</option>
                         <option value="korean">Korean</option>
                         <option value="italian">Italian</option>
+                        <option value="mediterranean">Mediterranean</option>
                         <option value="mexican">Mexican</option>
                         <option value="thai">Thai</option>
                         <option value="west-african">West African</option>

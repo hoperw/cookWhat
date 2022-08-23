@@ -98,6 +98,8 @@ export default function Form() {
     return (
         <div className="form-wrapper">
         <div className="shape1"></div>
+        <div>
+        <h1 className="form-h1">What Kind of Recipe do you Want to Make?</h1>
         <form id="recipe-form" onSubmit={handleSubmit}>
             <div className="checkbox-wrapper">
                 <h3 className="section-label">Dietary Restrictions: </h3>
@@ -172,9 +174,9 @@ export default function Form() {
             </div>
             <button id="form-submit" onClick={getRecipe}>Get a Recipe</button>
         </form>
+        </div>
             <div className="shape2"></div>
             <RecipeDisplay recipe={recipe} />
-
         </div>
     )
 }

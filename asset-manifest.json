@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cookWhat/static/css/main.1e4c26e2.css",
+    "main.css": "/cookWhat/static/css/main.a86ae1c5.css",
     "main.js": "/cookWhat/static/js/main.47c879b5.js",
     "index.html": "/cookWhat/index.html",
-    "main.1e4c26e2.css.map": "/cookWhat/static/css/main.1e4c26e2.css.map",
+    "main.a86ae1c5.css.map": "/cookWhat/static/css/main.a86ae1c5.css.map",
     "main.47c879b5.js.map": "/cookWhat/static/js/main.47c879b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e4c26e2.css",
+    "static/css/main.a86ae1c5.css",
     "static/js/main.47c879b5.js"
   ]
 }
